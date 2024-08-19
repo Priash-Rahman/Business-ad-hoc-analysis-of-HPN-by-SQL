@@ -34,16 +34,19 @@
 ![Screenshot 2024-08-19 133142](https://github.com/user-attachments/assets/daa8d363-7066-4422-ac89-17bcba7ed912)
 
 
-### *Adhoc question 1 : Generate a  customer business report with kpi  & report must be dynamic based on fiscal year and market. 
+## *Adhoc question 1 : Generate a  customer business report with kpi  & report must be dynamic based on fiscal year and market. 
 ![customer kpi code](https://github.com/user-attachments/assets/3e196d34-13b9-4580-bed0-e0e0a92e7ca4)
 ![customer kpi v ](https://github.com/user-attachments/assets/a8d0f8d5-e32a-43ba-b775-92c5df366aeb)
 
-### *Adhoc question 2  :Identify total customers we have & active customers did business with ? 
+## *Adhoc question 2  :Identify total customers we have & active customers did business with ? 
 
 ![Screenshot 2024-08-19 141612](https://github.com/user-attachments/assets/f2fb05d0-73f9-40a6-9085-b81db8eea7d2) 
 
+## **Adhoc question 3  :Write query to return top selling products by category &  a query to return products that are unsold.
+![Screenshot 2024-08-19 233310](https://github.com/user-attachments/assets/5b9ebe1c-5eb6-4b28-ad0b-7ac938cef774)
+## **Adhoc question 4  :Query the customers who took > avg 200 days for second order
 
-
+![Screenshot 2024-08-19 233536](https://github.com/user-attachments/assets/74c4802d-1fab-4e5b-acb5-3f4309f76af0)
 
 
 
