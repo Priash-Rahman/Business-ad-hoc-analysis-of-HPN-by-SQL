@@ -47,7 +47,8 @@
 ## **Adhoc question 4  :Query the customers who took > avg 200 days for second order
 
 ![Screenshot 2024-08-19 233536](https://github.com/user-attachments/assets/74c4802d-1fab-4e5b-acb5-3f4309f76af0)
-
+## **Adhoc question 5 : Query country, customer wise top 5 qty returns & amount refunds 
+![Screenshot 2024-08-19 234654](https://github.com/user-attachments/assets/dca5b174-0c07-4702-92a4-ffb200a40dee)
 
 
 ## Excel (Dashboard)
