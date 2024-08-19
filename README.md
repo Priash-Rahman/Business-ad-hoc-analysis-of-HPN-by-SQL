@@ -5,6 +5,32 @@
 
 
 
+## **Business Ad-Hoc questions.
+
+      - Generate a  customer business report with kpi  & report must be dynamic based on fiscal year and market. 
+      - Identify total customers we have & active customers did business with . 
+      - Write query to return top selling products by category &  a query to return products that are unsold. 
+      - Query the customers who took >200 days for second order. 
+      - Query country, customer wise top 5 qty returns & amount refunds .
+      - Query customers having return rate > 30%  
+      - identify customers who bought most unique products .
+      - Query avg order value by customers  > 2000 & transactions > 100 to identify high spending customers .
+      - Query profit contribution by business type & unique customers gain by fiscal year
+      - Do discounts have correlation with products qty sold ?
+      - Query top 10 products & least 10 products with return rate
+      - Query top 3 qty per transaction of products category wise to identify fast moving products of each category.
+      - Query products with most unique customers ( Top 20 ) to identify products wide distribution
+      - Query region wise sales % contribution by customers.
+      - Query a Product based profit report of 11 vs 12 vs 13 , create store procedure on “country” , “region” to make the report dynamic
+      - Query Month over month  & Quarter over quarter sales % change .
+      - Generate a finance report by year  & keep the report dynamic by country ,business type , category for multiple uses .
+      - Name the products that contributes to top 20% of the profit .
+      - Query running total of revenue by months .
+      - Query 3 month rolling avg of profit .
+
+
+
+
 
 
 ## Excel (Dashboard)
