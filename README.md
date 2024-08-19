@@ -35,6 +35,12 @@
 
 
 ### *Adhoc question 1 : Generate a  customer business report with kpi  & report must be dynamic based on fiscal year and market. 
+![customer kpi code](https://github.com/user-attachments/assets/3e196d34-13b9-4580-bed0-e0e0a92e7ca4)
+![customer kpi v ](https://github.com/user-attachments/assets/a8d0f8d5-e32a-43ba-b775-92c5df366aeb)
+
+### *Adhoc question 2  :Identify total customers we have & active customers did business with ? 
+
+![Screenshot 2024-08-19 141612](https://github.com/user-attachments/assets/f2fb05d0-73f9-40a6-9085-b81db8eea7d2) 
 
 
 
