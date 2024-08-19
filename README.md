@@ -28,6 +28,14 @@
       - Query running total of revenue by months .
       - Query 3 month rolling avg of profit .
 
+## Data Preparation 
+![Screenshot 2024-08-19 131752](https://github.com/user-attachments/assets/bc2cd141-6b3b-4744-b089-3f3c475187db)
+
+![Screenshot 2024-08-19 133142](https://github.com/user-attachments/assets/daa8d363-7066-4422-ac89-17bcba7ed912)
+
+
+### *Adhoc question 1 : Generate a  customer business report with kpi  & report must be dynamic based on fiscal year and market. 
+
 
 
 
