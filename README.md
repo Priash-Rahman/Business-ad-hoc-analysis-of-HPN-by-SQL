@@ -12,8 +12,7 @@
       - Write query to return top selling products by category &  a query to return products that are unsold. 
       - Query the customers who took >200 days for second order. 
       - Query country, customer wise top 5 qty returns & amount refunds .
-      - Query customers having return rate > 30%  
-      - identify customers who bought most unique products .
+      - Query customers having return rate > 30%  &  identify customers who bought most unique products . 
       - Query avg order value by customers  > 2000 & transactions > 100 to identify high spending customers .
       - Query profit contribution by business type & unique customers gain by fiscal year
       - Do discounts have correlation with products qty sold ?
@@ -32,8 +31,9 @@
 ![Screenshot 2024-08-19 131752](https://github.com/user-attachments/assets/bc2cd141-6b3b-4744-b089-3f3c475187db)
 
 ![Screenshot 2024-08-19 133142](https://github.com/user-attachments/assets/daa8d363-7066-4422-ac89-17bcba7ed912)
-
-
+- 2 fact table is present in database , so revenue & refund view created from 2 fact tables , then populated together in kpi_view.
+- Date_view is created with all kpis and dates  to do some time based calculations .
+- Kpi_View = (Revenue_view+ Refund_view)  ;  Date_View = (Date+KPI_view).
 ## *Adhoc question 1 : Generate a  customer business report with kpi  & report must be dynamic based on fiscal year and market. 
 ![customer kpi code](https://github.com/user-attachments/assets/3e196d34-13b9-4580-bed0-e0e0a92e7ca4)
 ![customer kpi v ](https://github.com/user-attachments/assets/a8d0f8d5-e32a-43ba-b775-92c5df366aeb)
@@ -49,8 +49,22 @@
 ![Screenshot 2024-08-19 233536](https://github.com/user-attachments/assets/74c4802d-1fab-4e5b-acb5-3f4309f76af0)
 ## **Adhoc question 5 : Query country, customer wise top 5 qty returns & amount refunds 
 ![Screenshot 2024-08-19 234654](https://github.com/user-attachments/assets/dca5b174-0c07-4702-92a4-ffb200a40dee)
+## **Adhoc question 6 : Query customers having return rate > 30% &  identify customers who bought most unique products .
+![Screenshot 2024-08-21 202348](https://github.com/user-attachments/assets/630bb72d-6e31-49e0-8e6f-c8f0f299c6df)
+ ## **Adhoc question 7 : Query profit contribution by business type & unique customers gain by fiscal year.
+ 
+![Screenshot 2024-08-21 210106](https://github.com/user-attachments/assets/c548f522-3cd8-40e0-909c-eab9ea1ada0f)
 
+ ## **Adhoc question 8 : Query avg order value by customers  > 2000 & transactions > 100 to identify high spending customers .
+ 
+![Screenshot 2024-08-21 210431](https://github.com/user-attachments/assets/2f77463c-cb26-49bb-b574-9b3382b5f932)
+ ## **Adhoc question 9 : Do discounts have correlation with products qty sold ?![Screenshot 2024-08-21 211037](https://github.com/user-attachments/assets/d43f6980-832d-4e91-8365-feeb6969065e)
 
+ - Protein is the most profitable product of HPN ,accounts for 92% of the profit alone , so yes discounts did induce revenue for Protein .
+
+ ## **Adhoc question 10 : Query top 10 products & least 10 products with return rate.
+ ![Screenshot 2024-08-21 212503](https://github.com/user-attachments/assets/d01df033-e993-474c-968f-1ef4f643a054)
+ 
 ## Excel (Dashboard)
 
 
