@@ -64,7 +64,13 @@
 
  ## **Adhoc question 10 : Query top 10 products & least 10 products with return rate.
  ![Screenshot 2024-08-21 212503](https://github.com/user-attachments/assets/d01df033-e993-474c-968f-1ef4f643a054)
- 
+
+ ## **Adhoc question 11 :  Query top 3 qty per transaction of products category wise to identify fast moving products of each category.
+ ![Screenshot 2024-08-22 232117](https://github.com/user-attachments/assets/fff0faa1-7bbe-421d-83e4-3d344f99a864)
+  ## **Adhoc question 12 : Query products with most unique customers ( Top 20 ) to identify products wide distribution 
+  ![Screenshot 2024-08-22 232420](https://github.com/user-attachments/assets/c165adf3-acba-4dac-84af-2fc51f867e0b)
+## **Adhoc question 13 : Query region wise sales % contribution by customers.
+ ![Screenshot 2024-08-22 232502](https://github.com/user-attachments/assets/07af4378-624f-469b-b469-1d563374440c)
 ## Excel (Dashboard)
 
 
