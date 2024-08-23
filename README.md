@@ -71,6 +71,20 @@
   ![Screenshot 2024-08-22 232420](https://github.com/user-attachments/assets/c165adf3-acba-4dac-84af-2fc51f867e0b)
 ## **Adhoc question 13 : Query region wise sales % contribution by customers.
  ![Screenshot 2024-08-22 232502](https://github.com/user-attachments/assets/07af4378-624f-469b-b469-1d563374440c)
+ ## **Adhoc question 14 : Query a Product based profit report of 11 vs 12 vs 13 , create store procedure on “country” , “region” to make the report dynamic
+ ![Screenshot 2024-08-23 200258](https://github.com/user-attachments/assets/3213b6d3-ddbf-433a-a828-ea7342004a3b)
+  ## **Adhoc question 15 : Query Month over month  & Quarter over quarter sales % change .
+  ![Screenshot 2024-08-23 200455](https://github.com/user-attachments/assets/86dd6360-f3e9-4355-8a0a-fc1223fa6934)
+ ## **Adhoc question 15 : Generate a finance report by year  & keep the report dynamic by country ,business type , category for multiple uses .
+ ![Screenshot 2024-08-23 210044](https://github.com/user-attachments/assets/7a4b128b-a738-482d-a206-0b98d3bb3a76)
+  ## **Adhoc question 16 : Name the products that contributes to top 20% of the profit .
+  ![Screenshot 2024-08-23 205916](https://github.com/user-attachments/assets/b629fcfc-3d4c-4a29-b877-b6e53d0de5c1)
+
+
+ 
+
+
+
 ## Excel (Dashboard)
 
 
