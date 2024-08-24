@@ -22,8 +22,10 @@
       - Query region wise sales % contribution by customers.
       - Query a Product based profit report of 11 vs 12 vs 13 , create store procedure on “country” , “region” to make the report dynamic
       - Query Month over month  & Quarter over quarter sales % change .
+      - Query new customer orders & repeat customer orders by orderdate .
       - Generate a finance report by year  & keep the report dynamic by country ,business type , category for multiple uses .
       - Name the products that contributes to top 20% of the profit .
+      - Query Pareto (80/20)  rule of profit   for  Products & Customers . 
       - Query running total of revenue by months .
       - Query 3 month rolling avg of profit .
 
@@ -79,6 +81,15 @@
  ![Screenshot 2024-08-23 210044](https://github.com/user-attachments/assets/7a4b128b-a738-482d-a206-0b98d3bb3a76)
   ## **Adhoc question 16 : Name the products that contributes to top 20% of the profit .
   ![Screenshot 2024-08-23 205916](https://github.com/user-attachments/assets/b629fcfc-3d4c-4a29-b877-b6e53d0de5c1)
+
+
+   ## **Adhoc question 16 :  Query Pareto (80/20)  rule of profit   for  Products & Customers .
+
+   ![Screenshot 2024-08-24 211751](https://github.com/user-attachments/assets/8bd8ab5d-c477-4e5f-a25b-0cbeae83c27f)
+   ## **Adhoc question 17 : Query new customer orders & repeat customer orders by orderdate .
+   
+![Screenshot 2024-08-24 214855](https://github.com/user-attachments/assets/1b61a1cc-8f06-4a35-baaa-133ac000b9e4)
+
 
 
  
