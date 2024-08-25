@@ -89,6 +89,8 @@
    ## **Adhoc question 19 : Query new customer orders & repeat customer orders by orderdate .
    
 ![Screenshot 2024-08-24 214855](https://github.com/user-attachments/assets/1b61a1cc-8f06-4a35-baaa-133ac000b9e4)
+   ## **Adhoc question 20 : Query Running total of revenue.
+   ![Screenshot 2024-08-25 231530](https://github.com/user-attachments/assets/6afb5137-0644-487d-89d7-21dc422b3f11)
 
 
 
